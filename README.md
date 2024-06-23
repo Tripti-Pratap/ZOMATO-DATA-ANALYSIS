@@ -1,4 +1,7 @@
-## Zomato Data Analysis Project
+# Zomato Data Analysis Project
+### Dashboard Preview
+![Screenshot 2024-06-23 104616](https://github.com/Tripti-Pratap/ZOMATO-DATA-ANALYSIS/assets/160708707/68429bdf-b124-4448-bc57-e5354f36dfc4)
+
 
 ### Overview
 This project involves a comprehensive analysis of Zomato restaurant data to uncover insights related to restaurant types, ratings, cost for two, and customer preferences. The analysis was conducted using Python, with visualizations created in Power BI and Seaborn. The project is publicly available on Kaggle, and a Power BI dashboard has been created to visually present the findings.
